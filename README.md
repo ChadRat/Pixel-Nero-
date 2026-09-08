@@ -1,5 +1,2 @@
-# hi I'm changing my repository for i have run into an issue and i couldn't update it
-(thus the zip files of the updated code) ¯\_(ツ)_/¯
+# hi there this is my new repository
 
-you can find the new repository below:
-https://github.com/ChadRat/PixelWater-
