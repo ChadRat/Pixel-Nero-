@@ -1,4 +1,4 @@
-# hi I'm changing my repository for i have run into a technical issue and i couldn't update it
+# hi I'm changing my repository for i have run into an issue and i couldn't update it
 (thus the zip files of the updated code) ¯\_(ツ)_/¯
 
 you can find the new repository below:
